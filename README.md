@@ -1,2 +1,0 @@
-# github-first
-Capstone Project
